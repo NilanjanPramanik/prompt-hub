@@ -1,6 +1,4 @@
 import Feed from '@components/Feed';
-import Image from 'next/image'
-import { useState } from 'react';
 
 export default function Home() {
 
